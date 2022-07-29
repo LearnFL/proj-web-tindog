@@ -1,4 +1,4 @@
-This simple web page was a part a challenge, the main focus of which was Bootstrap. 
+This simple web page was a part a challenge, the main focus of which was Bootstrap and responsive design. 
 
 Challenged by London App Brewery https://www.londonappbrewery.com/
 Coded by Dennis Rotnov.
