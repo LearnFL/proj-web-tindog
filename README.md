@@ -1,4 +1,4 @@
-# This is a simple single page website,the main focus of which was Bootstrap and responsive design.
+# This is a simple single, page website, the main focus of which was Bootstrap and responsive design.
 
 
 ### My process was focused on Bootstrap grid design.
