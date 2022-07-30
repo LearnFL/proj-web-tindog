@@ -8,7 +8,7 @@
 - Instagram - [@dennis_r2018](https://www.instagram.com/dennis_r2018)
 
 
-## See page in action https://learnfl.github.io/proj-web-tindog/
+### See page in action https://learnfl.github.io/proj-web-tindog/
 
 ## Screenshots
 <img width="1501" alt="Screen Shot 2022-07-28 at 9 10 39 PM" src="https://user-images.githubusercontent.com/86169204/181662219-613cab1c-dcb3-42bc-988e-d4e047abeb80.png">
