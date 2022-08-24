@@ -157,7 +157,7 @@ h1, h2, h3 {
 }
 @media screen and (max-width: 1080px) {
   .card-body {
-    min-height: 23rem;
+    min-height: 24rem;
     max-height: 25rem;
   }
 }
