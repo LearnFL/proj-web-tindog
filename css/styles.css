@@ -168,7 +168,8 @@ h1, h2, h3 {
 
 .button-pricing {
   padding-top: 12%;
-  margin-top: auto;
+  position: sticky;
+  bottom: 0;
 }
 
 .download-button-cta {
